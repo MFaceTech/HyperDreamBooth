@@ -4,7 +4,7 @@
 ## Overview
 
 In this project, I provide a diffusers based implementation of [HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Models]https://arxiv.org/abs/2307.06949)
-Some of the code comes from this project：https://github.com/KohakuBlueleaf/HyperKohaku?tab=readme-ov-file
+Some of the codes come from this project：https://github.com/KohakuBlueleaf/HyperKohaku?tab=readme-ov-file
 
 ## Main Steps
 
