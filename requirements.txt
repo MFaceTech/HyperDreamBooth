@@ -1,0 +1,8 @@
+torch==2.0.1
+torchvision
+einops
+accelerate
+timm
+transformers
+diffusers==0.25.0.dev0
+git+https://github.com/huggingface/diffusers.git
